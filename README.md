@@ -175,9 +175,10 @@ systemctl stop firewalld.service
  
  
 参看：
+```
 https://github.com/openSUSE/kiwi/wiki/Setup-PXE-boot-with-EFI-using-grub2
 https://www.ibm.com/developerworks/community/blogs/a2674a1d-a968-4f17-998f-b8b38497c9f7?sortby=0&maxresults=10&lang=zh
 CentOS7 kickstart安装官方文档：https://access.redhat.com/documentation/zh-CN/Red_Hat_Enterprise_Linux/7/html/Installation_Guide/sect-kickstart-syntax.html#sect-kickstart-commands
 GRUB2配置文件: http://www.jinbuguo.com/linux/grub.cfg.html
 通过UEFI启动pxe安装CentOS 7 : http://blog.chinaunix.net/uid-22621471-id-4980582.html
-
+```
